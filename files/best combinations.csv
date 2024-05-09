@@ -1,0 +1,69 @@
+Neighborhood,Bedrooms,Bathrooms,Airbnb Superhost,Minimum Stay,Pets Allowed,Has Pool,Has Air Conditioning,Has Parking,Has Terrace,Annual Revenue
+Can Baró,3,2.0,True,3.0,False,False,True,True,True,69691.0
+Canyelles,3,1.0,True,2.0,False,False,True,False,False,17225.0
+Diagonal Mar i el Front Marítim del Poblenou,4,3.0,False,1.0,True,False,True,False,True,185944.0
+Horta,3,1.5,False,1.0,False,False,True,True,True,51583.0
+Hostafrancs,4,2.0,False,2.0,False,False,True,False,False,154648.0
+Montbau,2,1.0,False,31.0,False,True,True,True,True,3287.0
+Navas,2,1.0,True,1.0,False,False,True,True,True,85567.0
+Pedralbes,1,1.0,False,2.0,False,False,True,False,True,53969.0
+Porta,2,1.0,True,1.0,False,False,True,True,True,80386.0
+Provençals del Poblenou,4,2.5,True,1.0,False,False,True,True,True,90848.5
+Sant Andreu,3,1.0,False,3.0,True,False,True,False,True,57254.0
+Sant Antoni,3,1.0,False,32.0,True,False,True,False,True,351757.0
+Sant Genís dels Agudells,2,2.0,False,3.0,True,True,True,True,True,83077.0
+Sant Gervasi - Galvany,6,6.0,False,4.0,False,False,True,True,True,278195.0
+Sant Gervasi - la Bonanova,3,1.5,False,3.0,False,False,True,True,True,96555.0
+Sant Martí de Provençals,3,1.5,False,1.0,False,False,True,False,True,81700.0
+"Sant Pere, Santa Caterina i la Ribera",7,3.0,False,2.0,False,False,True,False,False,248711.0
+Sants,2,2.0,True,2.0,True,False,True,False,True,134667.0
+Sants - Badal,3,2.0,False,2.0,False,False,True,True,False,69776.0
+Sarrià,3,2.0,False,1.0,False,False,True,True,True,49143.0
+Torre Baró,2,1.0,False,31.0,True,False,True,True,False,5504.0
+Vallcarca i els Penitents,4,2.0,False,1.0,True,False,True,True,True,138400.5
+"Vallvidrera, el Tibidabo i les Planes",1,1.0,True,3.0,False,True,True,True,True,55175.0
+Verdun,3,1.0,False,3.0,True,False,True,True,True,40317.0
+Vilapicina i la Torre Llobeta,8,7.5,True,1.0,False,True,True,True,True,437737.0
+el Baix Guinardó,4,2.5,True,3.0,False,False,True,True,True,297816.0
+el Barri Gòtic,8,4.5,False,3.0,False,False,True,True,True,253569.0
+el Besòs i el Maresme,4,2.0,True,2.0,False,True,True,True,True,127736.0
+el Bon Pastor,1,1.0,False,3.0,False,False,True,True,False,33841.0
+el Camp d'en Grassot i Gràcia Nova,4,4.0,False,2.0,False,False,True,False,True,247455.0
+el Camp de l'Arpa del Clot,4,2.0,False,2.0,False,False,True,False,False,99520.0
+el Carmel,4,2.0,False,3.0,False,False,True,False,True,68614.0
+el Clot,0,2.0,False,1.0,False,False,True,False,True,67809.0
+el Coll,3,1.0,False,1.0,False,False,True,False,False,96723.0
+el Congrés i els Indians,2,1.0,False,1.0,False,False,True,False,False,45777.0
+el Fort Pienc,5,2.0,False,5.0,False,False,True,True,True,171445.0
+el Guinardó,4,3.0,False,1.0,True,False,True,True,False,113572.0
+el Parc i la Llacuna del Poblenou,5,2.0,False,1.0,True,False,True,True,False,131818.0
+el Poble Sec,3,1.5,False,1.0,False,False,True,False,False,196767.0
+el Poblenou,3,2.0,False,1.0,False,True,True,True,False,144922.0
+el Putxet i el Farró,2,1.0,True,2.0,False,True,True,True,True,128272.0
+el Raval,6,6.0,False,2.0,True,False,True,True,True,440439.0
+el Turó de la Peira,1,1.0,False,31.0,False,False,True,False,False,2610.0
+l'Antiga Esquerra de l'Eixample,6,6.0,False,4.0,False,False,True,True,True,280489.0
+la Barceloneta,4,1.5,True,3.0,True,False,True,True,True,138932.0
+la Bordeta,4,2.0,False,1.0,False,False,True,True,False,60347.0
+la Clota,4,3.0,False,32.0,False,False,True,False,True,843.0
+la Dreta de l'Eixample,9,6.0,False,3.0,False,False,True,True,False,602386.0
+la Font d'en Fargues,8,7.5,True,1.0,False,True,True,True,True,389534.0
+la Font de la Guatlla,3,1.5,True,3.0,False,False,True,True,True,198976.0
+la Guineueta,0,1.0,True,3.0,False,False,True,True,False,28860.0
+la Marina de Port,4,2.0,True,2.0,False,False,True,True,False,47709.0
+la Marina del Prat Vermell,6,3.0,False,3.0,True,True,True,True,True,143248.0
+la Maternitat i Sant Ramon,5,3.5,True,4.0,False,False,True,True,False,71194.0
+la Nova Esquerra de l'Eixample,5,2.5,False,4.0,False,False,True,False,True,155988.0
+la Prosperitat,1,1.5,False,31.0,False,False,True,True,False,8406.0
+la Sagrada Família,4,2.0,True,3.0,False,True,True,True,True,300589.6666666667
+la Sagrera,3,2.0,False,2.0,False,False,True,False,False,62295.0
+la Salut,4,4.5,False,3.0,False,True,True,True,True,170382.0
+la Teixonera,3,1.0,False,2.0,False,False,True,True,False,45097.0
+la Trinitat Vella,2,1.0,True,32.0,False,False,True,True,True,3479.0
+la Vall d'Hebron,2,1.0,True,3.0,False,False,True,True,False,43533.0
+la Verneda i la Pau,4,1.0,False,4.0,False,False,True,True,True,48863.0
+la Vila Olímpica del Poblenou,2,2.0,False,3.0,False,False,True,True,True,246995.0
+la Vila de Gràcia,4,3.0,True,1.0,False,False,True,True,True,233132.0
+les Corts,4,3.0,False,3.0,False,True,True,True,True,140985.0
+les Roquetes,1,1.0,True,6.0,False,False,True,True,True,28546.0
+les Tres Torres,3,2.0,False,4.0,False,False,True,True,True,45650.0
